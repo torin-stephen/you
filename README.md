@@ -1,4 +1,4 @@
-YOU Viewer - README.txt
+YOU Viewer
 =================================
 
 Program Overview:
