@@ -46,7 +46,7 @@ Installation Instructions:
 
 Copyright and License:
 ----------------------
-- **Copyright (c) 2025 YouSoft. All rights reserved.**
+- **Copyright (c) 2025 YouXR. All rights reserved.**
 - **License**: This software is provided "as-is" without warranty of any kind. You may use it freely for personal and educational purposes. Redistribution or modification of the software is not allowed without prior permission.
 
 Disclaimer:
@@ -55,9 +55,7 @@ This software is intended solely for private and personal use. The developers ar
 
 Support:
 --------
-For any issues or suggestions, please contact:
-- Email: support@yousoft.com
-- Website: www.yousoft.com
+For any issues or suggestions, please contact
 
 Thank you for using YOU Viewer!
 
